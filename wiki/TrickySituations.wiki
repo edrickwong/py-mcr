@@ -1,0 +1,11 @@
+#summary Tricky Situations requiring some rules analysis
+
+= Introduction =
+
+Because of the complexity of the game and all of the 81 scoring elements, sometimes situations can arise that is quite complex to score. This page contains a list of all situations that users have reported as incorrect/questionable. My hope is that some rules experts can have a look at the list and help me correct the scoring. 
+
+= Details =
+
+h d1d1d2d2d3d3d5d5d7d8d8d9d9 w d7
+
+Should an "Edge Wait" be awarded to the "Pure Terminal Chows"-hand even though the "Seven Pairs"-hand does not qualify for a Wait? Should the maximum points for the hand be 66 or 67 (as it is implemented right now)? 
