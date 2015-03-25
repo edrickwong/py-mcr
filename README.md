@@ -1,7 +1,7 @@
 # py-mcr
 Automatically exported from code.google.com/p/py-mcr
 
-This is only a rehost for when the original repo dies with Google Code. I am also not responsible demo below.
+This is only a rehost for when the original repo dies with Google Code. I am also not responsible for the demo below.
 
 Original summary
 ----------------
